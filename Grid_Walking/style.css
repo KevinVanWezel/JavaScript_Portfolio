@@ -1,0 +1,12 @@
+body{
+  background-color: midnightblue;
+}
+#canvas{
+  background-color: yellow;
+
+}
+#container{
+  width: 800px;
+
+  margin: auto;
+}

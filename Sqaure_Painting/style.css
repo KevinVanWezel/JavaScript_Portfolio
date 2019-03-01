@@ -1,0 +1,13 @@
+#container{
+width: 800px;
+margin: auto;
+
+}
+#canvas{
+  /*background-image: url(grid.png);*/
+  background-color: yellow;
+
+}
+body{
+  background-color: midnightblue;
+}
